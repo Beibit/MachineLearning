@@ -1,0 +1,10 @@
+# Created by Octave 4.0.0, Tue Nov 17 13:24:41 2015 West Asia Standard Time <unknown@pb027usk20am>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 2
+ -234 3
+ 1 23
+ 2 3
+
+
